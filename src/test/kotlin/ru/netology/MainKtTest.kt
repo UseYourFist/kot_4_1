@@ -17,7 +17,7 @@ class MainKtTest {
             sumAll = all,
             sumNow = now
         )
-        assertEquals(1, result)
+        assertEquals(0, result)
     }
 
     @Test
